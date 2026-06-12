@@ -28,7 +28,7 @@
 | Layer         | Technologies                                              |
 | ------------- | --------------------------------------------------------- |
 | **Languages** | JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3 / Sass    |
-| **Frontend**  | React.js, Vite, Tailwind CSS, Bootstrap, Context API      |
+| **Frontend**  | React.js,Next.js Vite, Tailwind CSS, Bootstrap, Context API      |
 | **Backend**   | Node.js, Express.js, RESTful APIs, Axios Interceptors     |
 | **Databases** | PostgreSQL, MySQL, Firebase, Supabase, Query Optimization |
 
